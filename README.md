@@ -25,8 +25,8 @@ You can run any script locally from your terminal. Ensure you have Python 3.x in
 
 ## 🔗 Connect with me
 
-- **HackerRank:** (https://www.hackerrank.com/profile/elmhlawy89)
-- **LinkedIn:** (https://www.linkedin.com/in/mohamed-elmhalwy/)
+- **HackerRank:** [My Profile](https://www.hackerrank.com/profile/elmhlawy89)
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/mohamed-elmhalwy/)
 
 ```bash
 python3 Basic_Data_Types/NestedLists.py
