@@ -18,6 +18,7 @@ For every problem, I aim to write code that is:
 1. **Readable:** Using clear variable names and formatting.
 2. **Pythonic:** Utilizing built-in functions (like `min()` and `max()`) and list comprehensions to write cleaner code.
 3. **Safe:** Avoiding common pitfalls, such as modifying lists while iterating over them.
+4. **Numpy:** Mathematical operations on multi-dimensional arrays using the NumPy library (Sum, Prod, Min, Max).
 
 ## 🚀 How to Run
 
